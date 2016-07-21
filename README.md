@@ -1,1 +1,1 @@
-# Simpl-site-for-learning
+# Simple-site-for-my-learning
